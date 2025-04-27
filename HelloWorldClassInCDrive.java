@@ -1,4 +1,8 @@
 public class HelloWorldClassInCDrive {
 
-    public void main(void){}
+    private string className;
+
+    public string getClassName(){
+        return this.className;
+    }
 }
